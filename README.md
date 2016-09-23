@@ -4,5 +4,6 @@ some simple classic games written in cpp . works in windows console
 * TicTacToe
 * Snake
 * Attari Car Game
+* Dot And Line
 
- 
+Dot And Line is Written with QT .
